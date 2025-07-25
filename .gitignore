@@ -1,0 +1,19 @@
+# PlatformIO build output
+.pio/
+
+# VSCode settings (optional: ignore entire folder)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Compiled binaries (just in case)
+*.o
+*.a
+*.elf
