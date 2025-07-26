@@ -4,7 +4,8 @@ A physics-based jump-and-run game running on a PCB with joystick and button cont
 ---
 
 ## 🎥 Demo
-![Gameplay Start](assets/demo.gif)
+[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!-- ![Gameplay Start](assets/demo.gif) -->
 
 ---
 
