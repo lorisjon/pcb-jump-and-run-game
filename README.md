@@ -22,8 +22,9 @@ A physics-based jump-and-run game running on a PCB with joystick and button cont
   ![Obstacles](assets/obstacles.gif)
 
 - **Score System & Game States**  
-  Score increments as you run forward, with clear Start and Game Over screens.  
-  <video src="assets/gameover.mp4" controls autoplay loop muted></video>
+  Score increments as you run forward, with clear Start and Game Over screens.
+  ![GameOver](assets/gameover.gif)
+ <!-- <video src="assets/gameover.mp4" controls autoplay loop muted></video> -->
 
 - **PCB Hardware Controls**  
   Controlled via joystick (movement) and two buttons for jumping and starting.  
