@@ -3,12 +3,12 @@ A physics-based jump-and-run game running on a PCB with joystick and button cont
 
 ---
 
-## 🎥 Demo
+## Demo
 ![Gameplay Start](assets/demo.gif)
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Smooth Game Start**  
   Press Button A to start from the Start Screen into gameplay.  
   ![Gameplay Start](assets/gameplay_start.gif)
@@ -32,7 +32,7 @@ A physics-based jump-and-run game running on a PCB with joystick and button cont
 
 ---
 
-## 🧠 Project Context
+## Project Context
 This project was created during a special week at GIB focused on PCB programming.  
 I decided to build a small but fun game combining:
 - **C++ and Arduino framework**  
@@ -44,7 +44,7 @@ The game runs on a single PCB with display and is not meant to be easily reprodu
 
 ---
 
-## 🏗 How It Works (Technical Overview)
+## How It Works (Technical Overview)
 - **Game States**:  
   `0 = Start screen`, `1 = Playing`, `2 = Game Over`.  
   Button A transitions between states.
@@ -71,6 +71,6 @@ The game runs on a single PCB with display and is not meant to be easily reprodu
 
 ---
 
-## 👨‍💻 Author
+## Author
 Created by **Loris Stahlberg**  
 <!-- Portfolio: [your-portfolio-link](https://your-portfolio-link.com) -->
